@@ -5,7 +5,8 @@ crazy github projects!<br>
 #### things i use <br>
 arch linux <br>
 manjaro kernel <br>
-i3-gaps
+i3-gaps<br>
+[mononoki](https://madmalik.github.io/mononoki/)
 <!--
 **rainonwires/rainonwires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
