@@ -1,7 +1,11 @@
 ### Hiya peoplez
-my brain config rn ! (aka stuff that has been on my mind recently)<br>
+#### my brain config rn ! (aka stuff that has been on my mind recently)<br>
 horror!<br>
-crazy github projects!
+crazy github projects!<br>
+#### things i use <br>
+arch linux <br>
+manjaro kernel <br>
+i3-gaps
 <!--
 **rainonwires/rainonwires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
