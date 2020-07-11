@@ -1,5 +1,7 @@
 ### Hiya peoplez
-
+my brain config rn ! (aka stuff that has been on my mind recently)
+horror!
+crazy github projects!
 <!--
 **rainonwires/rainonwires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
