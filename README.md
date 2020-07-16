@@ -9,26 +9,26 @@ manjaro kernel <br>
 [mononoki](https://madmalik.github.io/mononoki/)<br>
 <br>
 #### Extensions
-[AudioContext-Fingerprint](https://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en)
-[Bishop Vulnerability Scanner](https://chrome.google.com/webstore/detail/bishop-vulnerability-scan/cbkdeoaaclnbidadjimofnhpbfhjakoe?hl=en)
-[Canvas-Fingerprint](https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp?hl=en)
-[Feedbro](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=en)
-[Font-Fingerprint](https://chrome.google.com/webstore/detail/font-fingerprint-defender/fhkphphbadjkepgfljndicmgdlndmoke?hl=en)
-[GBChess](https://chrome.google.com/webstore/detail/gbchess-extension/ogdgmmjdlbkiikfkagogfdedkloonigi?hl=en)
-[Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
-[Old Reddit Redirect](https://chrome.google.com/webstore/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje?hl=en)
-[Pent-Testing-Kit](https://chrome.google.com/webstore/detail/penetration-testing-kit/ojkchikaholjmcnefhjlbohackpeeknd?hl=en)
-[pic-in-pic](https://chrome.google.com/webstore/detail/pic-in-pic-for-chrome-bro/cbaaeiaghennljabmbcbcnmcaplkggod?hl=en)
-[Random User Agent](https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp?hl=en)
-[Save to GD](https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne?hl=en)
-[ShodanIO](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?hl=en)
-[SteamDB](https://chrome.google.com/webstore/detail/steam-database/kdbmhfkmnlmbkgbabkdealhhbfhlmmon?hl=en)
-[TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
-[The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en)
-[Vulners Web Scanner](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd?hl=en)
-[Web Sniffer](https://chrome.google.com/webstore/detail/web-sniffer/ndfgffclcpdbgghfgkmooklaendohaef?hl=en)
-[WebGL-Fingerprint](https://chrome.google.com/webstore/detail/webgl-fingerprint-defende/olnbjpaejebpnokblkepbphhembdicik?hl=en)
-[WPIntel](https://chrome.google.com/webstore/detail/wpintel-wordpress-vulnera/mkhmkjcbidkifopffebieonhhkondlfe?hl=en)
+[AudioContext-Fingerprint](https://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en)<br>
+[Bishop Vulnerability Scanner](https://chrome.google.com/webstore/detail/bishop-vulnerability-scan/cbkdeoaaclnbidadjimofnhpbfhjakoe?hl=en)<br>
+[Canvas-Fingerprint](https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp?hl=en)<br>
+[Feedbro](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa?hl=en)<br>
+[Font-Fingerprint](https://chrome.google.com/webstore/detail/font-fingerprint-defender/fhkphphbadjkepgfljndicmgdlndmoke?hl=en)<br>
+[GBChess](https://chrome.google.com/webstore/detail/gbchess-extension/ogdgmmjdlbkiikfkagogfdedkloonigi?hl=en)<br>
+[Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)<br>
+[Old Reddit Redirect](https://chrome.google.com/webstore/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje?hl=en)<br>
+[Pent-Testing-Kit](https://chrome.google.com/webstore/detail/penetration-testing-kit/ojkchikaholjmcnefhjlbohackpeeknd?hl=en)<br>
+[pic-in-pic](https://chrome.google.com/webstore/detail/pic-in-pic-for-chrome-bro/cbaaeiaghennljabmbcbcnmcaplkggod?hl=en)<br>
+[Random User Agent](https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp?hl=en)<br>
+[Save to GD](https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne?hl=en)<br>
+[ShodanIO](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?hl=en)<br>
+[SteamDB](https://chrome.google.com/webstore/detail/steam-database/kdbmhfkmnlmbkgbabkdealhhbfhlmmon?hl=en)<br>
+[TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)<br>
+[The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en)<br>
+[Vulners Web Scanner](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd?hl=en)<br>
+[Web Sniffer](https://chrome.google.com/webstore/detail/web-sniffer/ndfgffclcpdbgghfgkmooklaendohaef?hl=en)<br>
+[WebGL-Fingerprint](https://chrome.google.com/webstore/detail/webgl-fingerprint-defende/olnbjpaejebpnokblkepbphhembdicik?hl=en)<br>
+[WPIntel](https://chrome.google.com/webstore/detail/wpintel-wordpress-vulnera/mkhmkjcbidkifopffebieonhhkondlfe?hl=en)<br>
 
 
 
