@@ -29,6 +29,8 @@ manjaro kernel <br>
 [Web Sniffer](https://chrome.google.com/webstore/detail/web-sniffer/ndfgffclcpdbgghfgkmooklaendohaef?hl=en)<br>
 [WebGL-Fingerprint](https://chrome.google.com/webstore/detail/webgl-fingerprint-defende/olnbjpaejebpnokblkepbphhembdicik?hl=en)<br>
 [WPIntel](https://chrome.google.com/webstore/detail/wpintel-wordpress-vulnera/mkhmkjcbidkifopffebieonhhkondlfe?hl=en)<br>
+[Wikipedia Reading list](https://chrome.google.com/webstore/detail/wikipedia-reading-lists/nngeaaogaldpfiedmmpicdnoddglbkmi/related)<br>
+[Nasa PoD](https://chrome.google.com/webstore/detail/nasa-picture-of-the-day/njgkhaihjhccfmimhnddjgmdmnplhdel?hl=en)<br>
 
 
 
