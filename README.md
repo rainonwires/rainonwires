@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xcuff
-- 👀 I’m interested in rust
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on rust
+- 👀 I’m interested in rust & c/c++
+- 🌱 I’m currently learning rust & c/c++
+- 💞️ I’m looking to collaborate on rust & c/++
 - 📫 How to reach me xcuff#4054
 
 <!---
