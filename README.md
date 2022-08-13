@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xcuff
+- 👋 Hi, I’m @rainonwires
 - 👀 I’m interested in rust & c/c++
 - 🌱 I’m currently learning rust & c/c++
 - 💞️ I’m looking to collaborate on rust & c/++
