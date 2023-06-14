@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rainonwires
-- 👀 I’m interested in c, zig, rust, lobster, carbon, pascal, perl, haxe, **lisp**, scala.
+- 👀 I’m interested in c, zig, **rust**♡, lobster, carbon, pascal, perl, **lisp**♡, scala.
 - 🌱 I’m currently learning c.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me rainonwires#3520
