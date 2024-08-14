@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rainonwires
 - 👀 I’m interested in c, **zig**♡, **rust**♡, lobster, carbon, pascal, perl, **lisp**♡, scala, ocaml, go.
-- 🌱 I’m currently learning rust.
+- 🌱 I’m currently learning zig.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: Message me on discord at the same username or on steam at the same username. 
 
